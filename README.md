@@ -28,3 +28,9 @@ Display Results: If movies are found, they are displayed as Bootstrap cards with
 **Error Handling**  
 
 The app uses try/catch for error handling. It will display an error notification using Toastr if there’s a network or API issue.
+
+
+Screenshot of the Interface.
+
+![Screenshot 2024-11-11 162035](https://github.com/user-attachments/assets/db23a909-c771-4908-b23c-e776d554151c)
+
