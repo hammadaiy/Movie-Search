@@ -1,5 +1,3 @@
 {
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/public/movie_template.html" }
-  ]
+  "rewrites": [{ "source": "/(.*)", "destination": "/public/index.html" }]
 }
