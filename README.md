@@ -1,4 +1,4 @@
-# Movie-Search
+# Movie-Search App ([Live Link](https://moviesearch-application.vercel.app/))
 
 A web application that lets users search for movies using the OMDb API, displaying movie details like posters, titles, release years, and types in a clean Bootstrap card format.
 
