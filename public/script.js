@@ -1,5 +1,6 @@
 // API key
 const API_KEY = "6b6f168a";
+
 const searchForm = document.getElementById("searchForm");
 const searchResultsDiv = document.getElementById("searchResults");
 
@@ -19,7 +20,7 @@ searchForm.addEventListener("submit", async (event) => {
 
   try {
     const response = await fetch(
-      `http://www.omdbapi.com/?apikey=${API_KEY}&s=${encodeURIComponent(
+      `https://www.omdbapi.com/?apikey=${API_KEY}&s=${encodeURIComponent(
         searchQuery
       )}`
     );
